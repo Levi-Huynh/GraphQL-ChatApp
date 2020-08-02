@@ -82,7 +82,7 @@ mt={200}
 mb={0}
     fontSize={45}
   
-    >Type a Msg To Start Chat</Text>  
+    >Type a Message To Start Chat</Text>  
 <Image src={chatIcon} alt="chatimage"></Image>
 </Box>
 

@@ -94,7 +94,7 @@ w="45%"
 mb={0}
     fontSize={45}
    
-    >GraphQL ChatApp. Connect.</Text>  
+    >ChatterBox. Connect.</Text>  
 <Image src={landing} alt="landing"></Image>
 </Box>
 
