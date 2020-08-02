@@ -18,7 +18,7 @@ const httpLink = new HttpLink({
 
 // Create a WebSocket link:
 const wsLink = new WebSocketLink({
-  uri: "ws://hasura-infiite-loader.herokuapp.com/v1alpha1/graphql", // use wss for a secure endpoint
+  uri: "wss://hasura-infiite-loader.herokuapp.com/v1alpha1/graphql", // use wss for a secure endpoint
   options: {
     reconnect: true
   }
