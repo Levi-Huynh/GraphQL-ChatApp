@@ -78,8 +78,8 @@ const Login = ({ history }) => {
 
     <Flex
     direction="row"
-    justify="space-around"
-
+    justify="center"
+   border='1px'
     >
   
  
